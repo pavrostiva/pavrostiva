@@ -1,38 +1,7 @@
-# 👋 Hello!
-
 🚀 I'm a final-year BS+MS Bioinformatics student passionate about **omics data analysis** with a focus on **cancer research**.
 
----
+💻 Skills: Python, R, Git, Bash, Docker, transcriptomics data analysis (Seurat, Scanpy, Squidpy), genomics data analysis (WGS/WES), ML.
 
-## 🧬 About Me
-I am deeply interested in studying cancer progression using bioinformatics. My current work involves multi-omics analysis to better understand oncogenesis.
+📈 I'm currently contributing to a multi-omics project on **oral cancer oncogenesis**, involving data from single-cell transcriptomics, genomics, and metagenomics (results to be published in a public repo).
 
----
-
-## 💻 Skills
-**Proficient**: Python, R, single-cell RNA-seq (Seurat, Scanpy), data analysis, visualization  
-
-**Comfortable**: Git, Bash, NGS data analysis, RNA-seq (batch effects, GO analysis, coexpression analysis), phylogenetic analysis, spatial analysis (Squidpy), WGS/WES (QC, trimming, mapping, SNP calling), basic machine learning (linear regression, cross-validation)  
-
-**Familiar**: Docker, Nextflow, server management, basic lab skills (DNA/RNA extraction, PCR, vector cloning)
-
----
-
-## 📈 Current Project
-I am contributing to a comprehensive multi-omics project focused on the study of **oral cancer oncogenesis**. This project leverages data from single-cell transcriptomics, genomics, and metagenomics.
-
----
-
-## 🌱 Interests
-- **Transcriptomics**: Bulk, single-cell, and spatial expression analysis
-- **Genomics**: Genotyping
-- **Oncogenesis**
-- **Neural Development**
-- **Machine Learning**
-
----
-
-## 🎯 Hobbies
-- Playing Volleyball & Table Tennis
-- Watching Comedy TV Shows
-- Travelling & Hiking
+🎯 Hobbies: playing volleyball & table tennis, watching comedy TV shows, traveling & hiking.
