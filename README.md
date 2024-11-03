@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-🚀 Final-year BS+MS Bioinformatics student passionate about **omics data analysis** with a focus on **cancer research**.
+🚀 I'm a final-year BS+MS Bioinformatics student passionate about **omics data analysis** with a focus on **cancer research**.
 
 ---
 
