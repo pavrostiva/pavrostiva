@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Pavel Ivanov-Rostovtsev
+# 👋 Hello!
 
 🚀 Final-year BS+MS Bioinformatics student passionate about **omics data analysis** with a focus on **cancer research**.
 
